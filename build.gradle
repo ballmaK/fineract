@@ -44,7 +44,7 @@ buildscript {
         npmRepository = 'https://npm.pkg.github.com'
     }
     repositories {
-        maven { url 'https://plugins.gradle.org/m2/' }
+        maven { url 'https://maven.aliyun.com/repository/gradle-plugin' }
     }
 
     dependencies {
